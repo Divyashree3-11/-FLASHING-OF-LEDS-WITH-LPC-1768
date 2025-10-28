@@ -92,6 +92,9 @@ int main()
  
 # Output:
 
+![WhatsApp Image 2025-10-28 at 14 42 45_cc7b721e](https://github.com/user-attachments/assets/9251f758-d853-4a50-85bd-1a57c5db6421)
+
+
 https://github.com/user-attachments/assets/31cb3767-921c-4db0-9043-3942b8bcdad1
 
 # Result :
